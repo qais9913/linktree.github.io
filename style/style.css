@@ -35,6 +35,7 @@ body {
 }
 
 .container img {
+    border: 5px solid #222222;
     border-radius: 50%;
     max-width: 15%;
     max-height: 15%;
