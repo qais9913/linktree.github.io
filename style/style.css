@@ -164,6 +164,9 @@ body {
 
 
 .waves {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
     position: relative;
     width: 100%;
     height: 15vh;
